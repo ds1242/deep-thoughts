@@ -63,7 +63,7 @@ export const QUERY_ME = gql`
       _id
       username
       email
-      friendCOunt
+      friendCount
       thoughts {
         _id
         thoughtText
